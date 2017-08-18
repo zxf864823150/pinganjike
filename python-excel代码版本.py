@@ -4,14 +4,6 @@ Created on Sat May 27 10:51:24 2017
 
 @author: ZHAIXIAOFAN626
 """
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 21 10:17:21 2017
-
-@author: zxf-pc
-"""
 import pandas as pd
 import numpy as np
 import os
